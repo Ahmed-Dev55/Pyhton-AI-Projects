@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python & Ai Development.**
 
-- 👯 I’m looking to collaborate on **Python projects **
+- 👯 I’m looking to collaborate on **Python projects.**
 
 - 💬 Ask me about **Python & AI/ML**
 
