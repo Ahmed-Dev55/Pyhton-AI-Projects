@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Baloch</h1>
 <h3 align="center">A passionate python & Ai Developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Building intelligent chatbot systems and developing automation scripts in Python.**
+- 🔭 I’m currently working on **python projects.**
 
-- 🌱 I’m currently learning **Advanced AI concepts such as reinforcement learning and computer vision frameworks like OpenCV and TensorFlow.**
+- 🌱 I’m currently learning **Python & Ai Development.**
 
-- 👯 I’m looking to collaborate on **Open-source AI and machine learning projects, as well as Python-based automation tools.**
+- 👯 I’m looking to collaborate on **Python projects **
 
-- 🤝 I’m looking for help with **Model fine-tuning and scalable AI deployment.**
-
-- 💬 Ask me about **Python, AI/ML algorithms, data analysis, and natural language processing (NLP).**
+- 💬 Ask me about **Python & AI/ML**
 
 - 📫 How to reach me **ahmedmagsi1233@gmail.com**
 
