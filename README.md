@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ahmed Baloch</h1>
 <h3 align="center">A passionate python & Ai Developer from Pakistan</h3>
 
+- 🔭 I’m currently working on **Building intelligent chatbot systems and developing automation scripts in Python.**
+
+- 🌱 I’m currently learning **Advanced AI concepts such as reinforcement learning and computer vision frameworks like OpenCV and TensorFlow.**
+
+- 👯 I’m looking to collaborate on **Open-source AI and machine learning projects, as well as Python-based automation tools.**
+
+- 🤝 I’m looking for help with **Model fine-tuning and scalable AI deployment.**
+
+- 💬 Ask me about **Python, AI/ML algorithms, data analysis, and natural language processing (NLP).**
+
+- 📫 How to reach me **ahmedmagsi1233@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ahmed-dev34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahmed-dev34" height="30" width="40" /></a>
